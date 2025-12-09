@@ -1,0 +1,374 @@
+2025-11-27 20:24:37 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-27 20:24:37 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-27 20:29:55 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-27 20:29:58 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 14:03:46 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 14:03:47 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 14:04:14 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 14:04:14 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 15:02:10 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 15:02:10 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 15:06:29 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 15:06:29 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 15:13:33 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 15:13:33 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 15:35:31 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 15:35:37 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 15:35:37 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 15:35:44 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 15:37:16 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 15:37:17 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 15:37:23 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 15:37:23 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-28 16:00:31 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-28 16:00:31 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-30 19:52:22 INFO  TC001LogoTest - ******TC001LogoTest is started******
+2025-11-30 19:52:23 INFO  TC001LogoTest - ******TC001LogoTest is ended******
+2025-11-30 20:00:19 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:00:19 ERROR BaseTest - TC001LogoTest is failed :Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-11-30 20:04:06 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:04:06 ERROR BaseTest - TC001LogoTest is failed :Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-11-30 20:06:57 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:06:57 ERROR BaseTest - TC001LogoTest is failed :Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-11-30 20:08:31 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:08:31 ERROR BaseTest - TC001LogoTest is failed :Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-11-30 20:09:35 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:09:35 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-11-30 20:15:46 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:15:46 ERROR BaseTest - TC001LogoTest is failed :Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-11-30 20:22:53 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:22:54 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-11-30 20:30:28 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:30:29 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-11-30 20:31:20 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 20:31:20 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-11-30 22:42:34 INFO  BaseTest - ******TC001LogoTest is started******
+2025-11-30 22:42:34 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-04 20:32:36 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 20:32:36 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-04 20:34:14 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 20:34:14 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [54bcc43b-4081-4139-9125-203957053c2e, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 14176, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 54bcc43b-4081-4139-9125-203957053c2e
+2025-12-04 20:36:56 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 20:36:56 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [ccc3aff9-f44c-40d8-b049-139244545569, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9308, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: ccc3aff9-f44c-40d8-b049-139244545569
+2025-12-04 20:41:22 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 20:41:23 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [7b9280a3-c356-4909-8901-77033fa27e23, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 10688, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 7b9280a3-c356-4909-8901-77033fa27e23
+2025-12-04 20:54:46 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 20:54:46 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-04 21:00:53 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 21:00:53 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-04 21:02:21 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 21:02:22 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [6b0d7c1f-4c23-444a-8341-4f7f551cd4e1, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9580, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 6b0d7c1f-4c23-444a-8341-4f7f551cd4e1
+2025-12-04 21:10:36 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 21:10:37 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [719efce1-4481-4829-b70d-0a24b4553fd8, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9340, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 719efce1-4481-4829-b70d-0a24b4553fd8
+2025-12-04 21:10:59 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 21:10:59 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [81c18cca-9494-4c4e-9128-a7589d91ac3f, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo., using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15280, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 81c18cca-9494-4c4e-9128-a7589d91ac3f
+2025-12-04 21:14:40 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 21:14:40 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [09c9fd94-cf23-4410-802c-739e0874a1a7, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 13260, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 09c9fd94-cf23-4410-802c-739e0874a1a7
+2025-12-04 21:17:23 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 21:17:23 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [5e9307f9-048a-458a-abae-42441c78a530, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo., using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 5508, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 5e9307f9-048a-458a-abae-42441c78a530
+2025-12-04 22:11:04 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 22:11:04 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [1688b695-1b17-4d27-a8a3-f333c7b17dfb, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9480, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 1688b695-1b17-4d27-a8a3-f333c7b17dfb
+2025-12-04 22:35:38 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 22:35:38 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [27e89af0-127a-463f-a1e1-71228c5db2b8, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo., using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 13340, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 27e89af0-127a-463f-a1e1-71228c5db2b8
+2025-12-04 22:49:28 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-04 22:49:28 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [19ad71c7-7c8f-42e8-a481-fafd349794f7, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15512, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 19ad71c7-7c8f-42e8-a481-fafd349794f7
+2025-12-05 19:26:51 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 19:26:51 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [e0316af1-c747-4e0c-aca3-e7a3d06feaa1, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo., using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9632, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: e0316af1-c747-4e0c-aca3-e7a3d06feaa1
+2025-12-05 22:34:45 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 22:34:45 ERROR BaseTest - TC001LogoTest is failed :invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=142.0.7444.176)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [31e1ddea81b287af5b291768fecd291b, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo., using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62454}, goog:processID: 6780, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62454/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 31e1ddea81b287af5b291768fecd291b
+2025-12-05 22:36:14 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 22:36:14 ERROR BaseTest - TC001LogoTest is failed :Given css selector expression ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo." is invalid: InvalidSelectorError: Document.querySelector: '.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo.' is not a valid selector: ".sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo."
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [a6ac78fa-952f-4f4a-b5a9-24e687ce0f70, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo., using=css selector}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 12580, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: a6ac78fa-952f-4f4a-b5a9-24e687ce0f70
+2025-12-05 23:06:48 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:07:04 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:12:43 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:12:43 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:12:48 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:13:11 ERROR BaseTest - TC001LogoTest is failed :Error communicating with the remote browser. It may have died.
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [72dc554f-7056-4949-a2f8-f6388fb77736, isElementDisplayed [id]]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, container:hostname: d28b9e257e3e, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:debuggerAddress: true, moz:firefoxOptions: {}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 1643, moz:profile: /tmp/rust_mozprofileu2hG7u, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: d28b9e257e3e, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Element: [[RemoteWebDriver: firefox on linux (72dc554f-7056-4949-a2f8-f6388fb77736)] -> css selector: .sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo]
+2025-12-05 23:16:14 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:16:15 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:20:07 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:20:07 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:26:26 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:26:26 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:31:23 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:31:24 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:31:54 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:32:03 ERROR BaseTest - TC001LogoTest is failed :invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=142.0.7444.59)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [fe2c8a936e733371673bae21674c4e12, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35537}, goog:processID: 2014, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.5:4444/sessio..., se:cdpVersion: 142.0.7444.59, se:containerName: 99eae21e0813, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fe2c8a936e733371673bae21674c4e12
+2025-12-05 23:32:38 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:33:19 ERROR BaseTest - TC001LogoTest is failed :tab crashed
+  (Session info: chrome=142.0.7444.59)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [3000ad086b9f312fab30d3a5e4686f75, findElement {value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:39957}, goog:processID: 2208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.5:4444/sessio..., se:cdpVersion: 142.0.7444.59, se:containerName: 99eae21e0813, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3000ad086b9f312fab30d3a5e4686f75
+2025-12-05 23:35:15 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:35:29 ERROR BaseTest - TC001LogoTest is failed :invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=142.0.7444.59)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [52e44a543041cbb6c5f433d27011152d, findElement {using=css selector, value=.sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.59, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:42413}, goog:processID: 2422, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.5:4444/sessio..., se:cdpVersion: 142.0.7444.59, se:containerName: 99eae21e0813, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52e44a543041cbb6c5f433d27011152d
+2025-12-05 23:36:31 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:36:31 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:56:21 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:56:21 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:56:33 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:56:33 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:56:43 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:56:43 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:58:09 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:58:09 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:58:09 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-05 23:58:10 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:58:10 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-05 23:58:10 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:04:53 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:04:53 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:04:53 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:04:55 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:05:01 ERROR BaseTest - TC001LogoTest is failed :Tried to run command without establishing a connection
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [82f0c3bf-052e-4730-a668-73e32ac06e6a, isElementDisplayed {id=b15818a1-c1d4-4f18-9a70-896e245b0528}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, container:hostname: 305f4ea38045, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:debuggerAddress: true, moz:firefoxOptions: {}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 1124, moz:profile: /tmp/rust_mozprofileZaQG4T, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: 305f4ea38045, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Element: [[RemoteWebDriver: firefox on linux (82f0c3bf-052e-4730-a668-73e32ac06e6a)] -> css selector: .sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo]
+Session ID: 82f0c3bf-052e-4730-a668-73e32ac06e6a
+2025-12-06 00:05:01 ERROR BaseTest - TC001LogoTest is failed :Tried to run command without establishing a connection
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [82f0c3bf-052e-4730-a668-73e32ac06e6a, isElementDisplayed {id=b15818a1-c1d4-4f18-9a70-896e245b0528}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, container:hostname: 305f4ea38045, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:debuggerAddress: true, moz:firefoxOptions: {}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 1124, moz:profile: /tmp/rust_mozprofileZaQG4T, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: 305f4ea38045, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Element: [[RemoteWebDriver: firefox on linux (82f0c3bf-052e-4730-a668-73e32ac06e6a)] -> css selector: .sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo]
+Session ID: 82f0c3bf-052e-4730-a668-73e32ac06e6a
+2025-12-06 00:07:51 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:07:51 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:09:35 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:09:35 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:09:47 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:09:47 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:09:56 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:09:57 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:12:31 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:12:31 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:12:40 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:12:40 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:12:46 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:12:47 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:13:50 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:13:50 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:13:51 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 00:13:52 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:13:52 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 00:13:58 ERROR BaseTest - TC001LogoTest is failed :Error communicating with the remote browser. It may have died.
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [32967ef7-72da-4fb5-a099-a5d7d9f66016, isElementDisplayed [id]]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, container:hostname: 305f4ea38045, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:debuggerAddress: true, moz:firefoxOptions: {}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 1089, moz:profile: /tmp/rust_mozprofile2acDLf, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: 305f4ea38045, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.18.0.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Element: [[RemoteWebDriver: firefox on linux (32967ef7-72da-4fb5-a099-a5d7d9f66016)] -> css selector: .sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo]
+2025-12-06 20:01:24 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:01:24 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 20:01:35 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:01:35 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 20:01:45 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:01:45 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 20:02:25 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:02:26 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 20:02:34 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:02:35 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 20:02:42 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:02:42 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 20:03:37 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:03:37 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:03:37 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 20:03:40 ERROR BaseTest - TC001LogoTest is failed :Error communicating with the remote browser. It may have died.
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [114d7549-6a55-4811-9677-3dbd3d8e4369, isElementDisplayed [id]]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 144.0.2, container:hostname: c19d21506c47, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:debuggerAddress: true, moz:firefoxOptions: {}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 1156, moz:profile: /tmp/rust_mozprofileqtDWmD, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, se:containerName: c19d21506c47, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.5:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.5:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Element: [[RemoteWebDriver: firefox on linux (114d7549-6a55-4811-9677-3dbd3d8e4369)] -> css selector: .sc-1f95z5i-14.eFJvvO.header-sprite.logo.gi-logo]
+2025-12-06 20:03:48 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 20:03:48 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 22:49:11 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 22:49:14 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 22:49:27 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 22:49:28 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 22:49:36 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 22:49:36 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 23:48:15 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 23:48:15 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-06 23:49:42 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-06 23:49:43 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:30:37 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:30:38 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:31:20 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:31:21 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:32:32 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:32:32 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:33:08 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:33:08 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:33:39 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:33:40 ERROR BaseTest - TC001LogoTest is failed :Error communicating with the remote browser. It may have died.
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [0d371bc9-2189-4b55-b272-aff266d7df30, findElement [value, using]]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 384, moz:profile: C:\Users\hp\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 0d371bc9-2189-4b55-b272-aff266d7df30
+2025-12-07 00:34:59 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:35:00 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:35:03 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:35:04 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:37:22 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:37:22 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:40:00 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:40:00 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:41:15 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:41:15 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:41:22 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:41:22 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:43:51 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:43:51 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:44:26 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:44:26 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:45:56 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:45:56 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:46:31 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:46:31 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:56:54 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:56:54 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-07 00:57:03 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-07 00:57:03 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-09 15:46:09 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-09 15:46:09 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-09 15:54:09 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-09 15:54:09 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-09 15:59:26 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-09 15:59:27 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-09 16:01:46 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-09 16:01:47 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-09 16:26:49 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-09 16:26:50 INFO  BaseTest - ******TC001LogoTest is ended******
+2025-12-09 16:27:25 INFO  BaseTest - ******TC001LogoTest is started******
+2025-12-09 16:27:25 INFO  BaseTest - ******TC001LogoTest is ended******

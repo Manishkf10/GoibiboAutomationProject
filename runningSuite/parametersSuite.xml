@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParallelSuite">
+
+
+	<groups>
+		<run>
+			<include name="sanity" />
+		</run>
+	</groups>
+
+	<listeners>
+		<listener class-name="com.goibibo.Utilities.ExtentReportManagers" />
+	</listeners>
+
+
+	<test thread-count="5" name="Test">
+		<parameter name="os" value="windows" />
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.goibibo.TestClass.TC001LogoTest" />
+			<!--class name="com.goibibo.TestClass.TC002FlightBookingTest" /-->
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+ParallelSuite -->	
